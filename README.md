@@ -1,4 +1,4 @@
-# Data analytics projects - Data visualizations
+# Data visualization projects
 A collection of data visualization projects as i work on improving my proficiency in Excel, Power BI and Tableau
 ![Sales dashboard]( https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects/blob/main/Power%20bi%20%20dashboard.png)
 
