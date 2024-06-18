@@ -1,5 +1,5 @@
-# Data visualization projects
-A collection of Data Visualization projects as I work on improving my proficiency in Excel, Power BI and MySQL
+# Supply chain analytics projects
+A collection of projects competed as I work on improving my proficiency in Excel, Power BI and MySQL
 
 ![Sales dashboard](https://github.com/mjchimbadzwa/Data-analysis-and-visualization-projects/blob/main/Sales%20dashboard.png)
 
